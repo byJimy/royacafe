@@ -1,0 +1,28 @@
+{
+  "name": "IICA-Bot",
+  "version": "1.5.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Ramos - Myappsoftware",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "botbuilder-cognitiveservices": "^1.1.0",
+    "dotenv": "^4.0.0",    
+    "env2": "^2.2.0",
+    "geolib": "^2.0.24",    
+    "microsoft-adaptivecards": "^0.6.1",
+    "needle": "^2.1.0",    
+    "node-wit": "^4.3.0",
+    "object-sizeof": "^1.2.0",
+    "request-promise": "^4.2.2",
+    "restify": "^6.3.4",
+    "restify-clients": "^1.5.2",
+    "restify-plugins": "^1.6.0",
+    "serve-static-restify": "^2.0.0",
+    "underscore": "^1.8.3"
+  }
+}
